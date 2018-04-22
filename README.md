@@ -10,6 +10,6 @@
 
 ### Both the dataset have been compiled and normaalized by me 
 
-### the code is inspired from the following blog nad youtube video
+### The code is inspired from the following blog and youtube video
 #### http://learnandshare645.blogspot.in/2016/06/feeding-your-own-data-set-into-cnn.html
 #### https://www.youtube.com/watch?time_continue=1&v=2pQOXjpO_u0
