@@ -9,3 +9,5 @@
 ### Please study the CNN_train_RGB_small.py first to get clearity of the code
 
 ### Both the dataset have been compiled and normaalized by me 
+
+### Go through Portfolio file to understand the whole project in a flow
